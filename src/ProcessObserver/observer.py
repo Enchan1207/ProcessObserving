@@ -1,7 +1,7 @@
 #
 # プロセス監視モジュール
 #
-import os, time, subprocess, hashlib
+import os, subprocess, hashlib
 
 # デフォルトのプロセスログ保存先は /tmp/procObserver/process_{Keywords(hashed)}.log
 
